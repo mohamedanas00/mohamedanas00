@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Anas</h1>
 <h3 align="center">I'm a student at the faculty of computer and artificial intelligence - at Cairo university.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedanas00&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedanas00" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedanas00" alt="mohamedanas00" /></a> </p>
 
 - 📫 How to reach me **mohamed.edris7688@gmail.com**
@@ -19,5 +17,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedanas00&show_icons=true&locale=en&layout=compact" alt="mohamedanas00" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedanas00&show_icons=true&locale=en" alt="mohamedanas00" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedanas00&" alt="mohamedanas00" /></p>
