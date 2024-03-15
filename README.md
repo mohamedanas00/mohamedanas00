@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Anas</h1>
-<h3 align="center">I'm a student at the faculty of computer and artificial intelligence - at Cairo university.</h3>
+<h3 align="center">I'm a student at the faculty of computer science and artificial intelligence - at Cairo university.</h3>
 
 - 📫 How to reach me **mohamed.edris7688@gmail.com**
 
